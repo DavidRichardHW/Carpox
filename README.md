@@ -43,4 +43,4 @@ Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/d
 
 ## Link do Site
 
-Você pode acessar meu site no GitHub Pages clicando aqui > [CordelModerno](https://davidrichardhw.github.io/Smartphone/) < Fique a vontade para deixar dicas e opiniões. 😁
+Você pode acessar meu site no GitHub Pages clicando aqui > [Carpox](https://davidrichardhw.github.io/Carpox/) < Fique a vontade para deixar dicas e opiniões. 😁
