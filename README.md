@@ -1,43 +1,27 @@
-# Site [Carpox](https://davidrichardhw.github.io/Carpox/)
+# Site [Carpox](https://davidrichardhw.github.io/Carpox/):
 
-Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/davidrichardhw) como parte dos meus estudos em HTML e CSS. O objetivo principal foi colocar em prática alguns conceitos de desenvolvimento web aprendidos.
+Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/davidrichardhw) como parte dos meus estudos em HTML e CSS. 
+
+Uma página simples de login, criada para desenvolver o conhecimento em fomulários.
 
 
-## Tecnologias & Conceitos Aplicados
 
-- Estruturação com HTML5
+## Tecnologias e Conceitos aplicados:
 
-- Alinhamento de divs usando CSS
-
-- Uso de id e class
-
-- Criação de cabeçalho
-
-- Aplicação de imagens de fundo em DIV
-
-- Pseudo-classes CSS
-
-- Aplicação de formulários
-
+- Favicon
+- IDs, Classes e Pseudo-classes
+- Imagens de fundo
+- Formulários
 - Links internos e externos
-
-- Responsividade com CSS
-
-- Uso de favicon
-
-- Uso de tags semânticas: strong, header, main, footer
+- Responsividade
 
 
-## Estrutura
 
-### O projeto é composto por:
+## Estrutura do Projeto:
 
 - index.html (HTML: Estrutura do site)
-
 - styles/style.css (CSS: Estilização)
-
 - images (Pasta de imagens)
-
 - data (Pasta de Documentação)
 
 
